@@ -103,7 +103,7 @@ password-manager/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/vault-password-manager.git
+git clone (https://github.com/kosurimamatha33-jpg/-Vault-Secure-Password-Manager.git)
 cd vault-password-manager
 ```
 
